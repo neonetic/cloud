@@ -4,11 +4,11 @@ import os
 version = '0.0.1'
 
 setup(
-    name='frappe_io',
+    name='neonetic_io',
     version=version,
-    description='Community portal for Frappe',
-    author='Web Notes Technologies Pvt Ltd',
-    author_email='info@erpnext.com',
+    description='Community portal for neonetic',
+    author='neonetic® Pvt Ltd',
+    author_email='connect@neonetic.co.za',
     packages=find_packages(),
     zip_safe=False,
     include_package_data=True,
